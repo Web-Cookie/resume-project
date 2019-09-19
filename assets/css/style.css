@@ -3,7 +3,7 @@ header {
   margin: 0;
 }
 .logo {
-  background: url("../image/Developer.jpg");
+  background: url ("../image/Developer.jpg");
   background-position: center;
   background-repeat: no repeat;
   background-size: cover;
