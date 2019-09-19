@@ -78,7 +78,7 @@ header {
   padding: 0;
 }
 
-.menuitem {
+.menuitem a {
   width: 100%;
   text-decoration: none;
   color: #fff;
@@ -92,5 +92,5 @@ header {
   display: block;
   color: #fafafa;
   font-size: 26px;
-  
+
 }
